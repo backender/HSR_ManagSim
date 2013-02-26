@@ -42,3 +42,9 @@ Jetzt sind die konstitutiven Entscheidungen zu treffen wie:
 
 ### Preis
 Für jedes Produkt kann zunächst ein Preis für den Verkauf im Fahrradgeschäft festgelegt werden (in Euro / Einheit)
+
+# Markteintritt und Agieren am Markt
+[<img src="img/kennzahlen_werbung.png">](http://google.com.au/)
+
+
+
