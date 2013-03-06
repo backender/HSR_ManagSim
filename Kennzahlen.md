@@ -91,7 +91,7 @@ Beteiligungskapitalgeber wollen an Ihrer Unternehmung beteiligt werden. Die Quot
 
 	- Förderdarlehen, Kredite mit einer Restlaufzeit über 5 Jahre
 
-	- Kredite mit einer Restlaufzeit unter 1 Jahr und Überzie- hungskredite.
+	- Kredite mit einer Restlaufzeit unter 1 Jahr und Überziehungskredite.
 
 ### Unternehmenswert
 #### Berechnung des Cash Flow
@@ -108,6 +108,7 @@ Jetzt sind die konstitutiven Entscheidungen zu treffen wie:
 - Aufnahme von Krediten und Beantragung von Förderdarlehen
 - Anmietung von Gebäuden
 - Kauf von Maschinen, BGA etc.
+  - Zwei Maschinen; eine gekauft, eine geleased
 - Einstellung von Mitarbeitern
 
 ### Preis
@@ -130,3 +131,11 @@ Gruppe
 
 Businessplan
 ------------
+
+
+Notizen
+-------
+- Personen
+  - Produktivität:
+    Periode 1: 20 Stück
+  - Neueinstellung: 16 Stück
