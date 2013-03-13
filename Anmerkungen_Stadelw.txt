@@ -3,3 +3,10 @@ Ladenpreis + print + CI = Marketing
 F&E: Intern
 
 20 Velos pro Mitarbeiter
+
+
+Periode 2
+---------
+- Wirtschaftswachstum für 3% möglich
+- CHF 1800.00 x 30 Velos an Händler von Messe
+- Extern: Bringt mehr für den Batzen
