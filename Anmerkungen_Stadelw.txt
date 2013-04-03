@@ -20,3 +20,14 @@ Periode 3
   jedoch erst in Persiode 4 Verkauft
 - Mitarbeiterin im Verkauft ist schwanger und geht
 - Ökosteuer steigt
+
+
+Periode 4
+---------
+- Grosshändler 70 Stück
+- Keine F&E mehr auf dem Markt
+- max 2 Mitarbeiter in Produktion
+- Neueinstellung EUR 7k
+- Sonstige fixkosten auf EUR 3k gesunken
+- Weihnachtsgeld
+- Mitarbeiter Produziert 110 Carbonräder
