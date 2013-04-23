@@ -4,7 +4,6 @@ F&E: Intern
 
 20 Velos pro Mitarbeiter
 
-
 Periode 2
 ---------
 - Wirtschaftswachstum für 3% möglich
@@ -21,7 +20,6 @@ Periode 3
 - Mitarbeiterin im Verkauft ist schwanger und geht
 - Ökosteuer steigt
 
-
 Periode 4
 ---------
 - Grosshändler 70 Stück
@@ -33,7 +31,7 @@ Periode 4
 - Mitarbeiter Produziert 110 Carbonräder
 
 Periode 5 (Jan - Mrz)
----------
+---------------------
 - Carbonrad gleich teuer wie P1!!!elf!11!
 - Max. 150k Kredit
 - Etwas mehr Werbung machen
@@ -42,7 +40,9 @@ Periode 5 (Jan - Mrz)
 
 Periode 6
 ---------
-- 40 bis 50 % mehr Verkauf
+- 40 bis 50% mehr Verkauf
 - Grosshändler 50 zu 1.7k
 - Busse 2k
-- 30% mehr fläche
+- 30% mehr Fläche
+- Fragen
+  - Fläche: 30% mehr von der zusätzlichen Fläche?
